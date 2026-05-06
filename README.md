@@ -1,10 +1,16 @@
 # PQID Dataset Gateway
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20024477.svg)](https://doi.org/10.5281/zenodo.20024477)
+[![Parent Repository](https://img.shields.io/badge/Parent-PQID--Dataset-24292f?logo=github)](https://github.com/Elias-Abebe-Gasparini/PQID-Dataset)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20024477-007ec6?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20024477)
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/Elias-Abebe-Gasparini/PQID-Dataset-Gateway)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Elias-Abebe-Gasparini)
 
 Interactive research software for auditing and exploring the Parallel Quantum
 Instruction Dataset (PQID).
+
+This is a companion child repository of
+[`PQID-Dataset`](https://github.com/Elias-Abebe-Gasparini/PQID-Dataset), the
+canonical dataset and reproducibility repository.
 
 The gateway brings the public dataset release, construction pipeline,
 license-governance logic, manuscript figures, release-integrity checks, and
